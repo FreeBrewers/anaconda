@@ -8,13 +8,17 @@ Free beer is an open source beer based on classic ale brewing traditions, but
 with added guaraná for a natural energy boost when coding Python. For more
 informations about FreeBeer go to http://freebeer.org/blog/about.
 
+10 September 2012, Curitiba, Paraná, Brazil.
+
+50 liters / 13.20 gallons OG=1.052, FG=1.010, IBU=??, SRM=??, ABV=5.5%
+
 Ingredients
 ===========
 
 Malt
 ----
 
-* 13.50, Kg Pilsner, 2.5-4.0 EBC
+* 13.50 Kg, Pilsner, 2.5-4.0 EBC
 * 1 Kg, Weyermann carahell, 20-30 EBC
 * 1 Kg, Weyermann melanoidin 60-80 EBC
 
@@ -29,6 +33,14 @@ Spice
 -----
 
 * 70 g, Guaraná powder
+* 2.43 Tablets of whirlfloc
+
+Yeast
+-----
+
+* 3 packages of safale US-05 from fermentis
 
 Step by step
 ------------
+
+
