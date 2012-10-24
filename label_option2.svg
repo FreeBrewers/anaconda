@@ -17,7 +17,7 @@
    id="svg5056"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="template.svg">
+   sodipodi:docname="label_option2.svg">
   <defs
      id="defs5058">
     <inkscape:perspective
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -252,11 +252,42 @@
          inkscape:connector-curvature="0" />
     </g>
     <image
-       y="976.40234"
-       x="277.28766"
-       id="image6030"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAABvCAIAAABtpwk3AAAAA3NCSVQICAjb4U/gAAACwklEQVR4 nO2cwY7kIAwFN6v5/1/uueWChOznGtgdVR27E0iebDDY4fl8Pn8E4u/tB/hVqCaJapKoJolqkqgm iWqSqCaJapKoJolqknxVLnqeZ9LHuxXwtrP+0mpnZW15c01GZUND2yRRTZKSp7+0tu9Wz9o4+Npy xXlbnW5+aTW4QdskUU2Snqe/bOy/4kcbl9/8sokNsiBh+BYr2iaJapKEnk7RGhZWsnn/59A2SVST 5I6nbzw0C+MrQfsBtE0S1SQJPX3oR5Vge9NFZb1fGR/w0UDbJFFNkp6nD7evK1N5pYvhHv7wLTZo mySqSVLy9CuRcGsNPgwSKLRNEtUkeSr2n+XLNq7aWlZXpuDWW2RZNvPpp1FNkqmnh70WEmetu1Za 5TqtRP8GbZNENUnC6D1b6rbS362/8G038+n3UU2ScEduOAlWvDhrJyuvrSw0jN5Po5okWN175iPZ lvum08rzVC7O0DZJVJMEq4alKlSzu9bbK+DpNm2TRDVJwi9cKmF8JSQezvvD0aCyMegXLtdQTZJp jVzLWaja1+HtVs78H6gmyQ9+y9aaglshQfaE67Ki0pdZtmuoJsm0GjYroalE760NtGEKwHz6v4hq ktypkdu0vLZTeYz1GqoiyCzbNVSTJPT0l2FojRfBZplxqghQ2yRRTRJsTqeyY1mDVBVfpeUN2iaJ apKUPB3rDPJZ6nsWvJ5f2yRRTZKjZ8O2yt0zD6XqbDO0TRLVJDl6NuywwfWurPqOeowVbZNENUmO ng2bnSeDb7BXOs0Ce22TRDVJ7pwYWXHe7Nvz4bAwRNskUU2So57emjFb2+mtgSJb5lfQNklUk+To 2bBZsdzaaRZsD+t/KmibJKpJcvRs2LWdzB83AUArWmgNLxW0TRLVJDmaT//1aJskqkmimiSqSaKa JKpJopokqkmimiSqSaKaJN8SRBzz75TovAAAAABJRU5ErkJggg== "
-       height="71.467369"
-       width="71.467369" />
+       y="951.3609"
+       x="261"
+       id="image3127"
+       xlink:href="data:image/png;base64,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
+9ysqqHUeAAAAAElFTkSuQmCC
+"
+       height="94"
+       width="94" />
   </g>
 </svg>
