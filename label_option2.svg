@@ -85,7 +85,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="215.59573"
+     inkscape:cx="278.84375"
      inkscape:cy="84.78123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -171,13 +171,13 @@
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="185.99869"
-       y="846.50861"
+       y="838.50861"
        id="text3008"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3010"
          x="185.99869"
-         y="846.50861">ANACONDA</tspan></text>
+         y="838.50861">ANACONDA</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -194,13 +194,13 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="185.2065"
-       y="795.79291"
+       y="791.79291"
        id="text3008-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3010-8"
          x="185.2065"
-         y="795.79291">FREE BEER</tspan></text>
+         y="791.79291">FREE BEER</tspan></text>
     <g
        id="Layer_2-3"
        i:layer="yes"
@@ -523,5 +523,16 @@ Da21Mk2zTTEASO7evVubpult377dGzFihK6trS35IUqU6Of8P5cIB37B6t4FAAAAAElFTkSuQmCC
 "
        height="18.818176"
        width="97.042755" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="17.50584"
+       y="851.3609"
+       id="text3238"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3240"
+         x="17.50584"
+         y="851.3609">Made to Python and Django meeting Curitiba, December 2012</tspan></text>
   </g>
 </svg>
