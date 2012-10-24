@@ -6,7 +6,10 @@ take place in december 2012 before the end of world :D
 
 Free beer is an open source beer based on classic ale brewing traditions, but
 with added guaraná for a natural energy boost when coding Python. For more
-informations about FreeBeer go to http://freebeer.org/blog/about.
+informations about FREE BEER go to http://freebeer.org/blog/about.
+
+The recipe and branding elements is published under a Creative Commons
+(Attribution-ShareAlike 2.5) license.
 
 10 September 2012, Curitiba, Paraná, Brazil.
 
